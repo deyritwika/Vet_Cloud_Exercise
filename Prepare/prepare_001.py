@@ -1,3 +1,4 @@
+#step 2: Prepare the images
 !pip install pydicom==2.3.0
 
 import pydicom
