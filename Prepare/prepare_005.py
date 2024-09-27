@@ -18,7 +18,7 @@ def modify_dicom_image(image_path, metadata, sample_id, attempt_num):
 
     return "e644c339-6b50-435e-a1f5-2cc2e01459b0.dcm"
 
-    sample_id= ' ref0000011tes-cbc-002'
+    sample_id= ' ref0000011tes-cbc-005'
     attempt_num= '005'
 
     image_path= "https://github.com/deyritwika/Vet_Cloud_Exercise/blob/main/DICOM%20IMAGES/661c8904-26b7-48e8-b65c-8028d14069fd.dcm"
