@@ -1,3 +1,4 @@
+#step 4: Trigger the analytics
 !pip install requests==2.31.0
 !pip install pydicom==2.3.0
 
